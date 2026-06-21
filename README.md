@@ -1,48 +1,29 @@
-# Secure Password Generator
 
-## Overview
+# 🌐 All-in-One Hub (Python Web App - No Flask)
 
-Secure Password Generator is a Python-based application that creates strong and random passwords based on the user-specified length. The generated password contains a mix of uppercase letters, lowercase letters, numbers, and special characters to improve security.
+A simple and colorful web application built using pure Python and JavaScript.
+This project runs from CMD and opens directly in the browser.
 
-## Features
+---
 
-* User-defined password length
-* Strong random password generation
-* Includes uppercase and lowercase letters
-* Includes digits and special characters
-* Input validation
-* Easy-to-use command-line interface
+## 🚀 Features
 
-## Technologies Used
+- 📒 Contact Manager (Add & View contacts)
+- 🔐 Secure Password Generator
+- 🎨 Beautiful professional UI (Dark Gradient Theme)
+- 🌐 Runs in browser using Python HTTP server
+- ⚡ No Flask / No external frameworks
+- 🧠 Fully beginner-friendly project
 
-* Python 3
-* Random Module
-* String Module
+---
 
-## How to Run
+## 🛠 Technologies Used
 
-1. Install Python 3.
-2. Download the project files.
-3. Open Command Prompt or Terminal.
-4. Run:
+- Python (Built-in HTTP Server)
+- HTML
+- CSS
+- JavaScript
 
-python password_generator.py
+---
 
-## Sample Output
-
-Enter password length: 12
-
-Generated Password:
-A#7kP!2mQ9$x
-
-## Learning Outcomes
-
-* Random password generation
-* User input handling
-* Exception handling
-* String manipulation
-* Python standard library usage
-
-## Author
-
-Kaviya Rajesh
+## 📁 Project Structure
